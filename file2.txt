@@ -3,3 +3,4 @@ DOES NOT APPEAR IN v0.1
 another new line
 where is this line?
 new line in clone outside of master-project
+add new line in branch1
